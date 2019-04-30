@@ -1,0 +1,149 @@
+{
+  "ret": true,
+  "data": {
+    "swiperList": [{
+        "id": "0001",
+        "imgUrl": "http://www.trp1119.com/proj/travel/static/img/swiper1.jpg"
+      }, {
+        "id": "0002",
+        "imgUrl": "http://www.trp1119.com/proj/travel/static/img/swiper2.jpg"
+      }, {
+        "id": "0003",
+        "imgUrl": "http://www.trp1119.com/proj/travel/static/img/swiper3.jpg"
+      }, {
+        "id": "0004",
+        "imgUrl": "http://www.trp1119.com/proj/travel/static/img/swiper4.jpg"
+      }, {
+        "id": "0005",
+        "imgUrl": "http://www.trp1119.com/proj/travel/static/img/swiper5.jpg"
+      }],
+    "iconList": [{
+        "id": "0001",
+        "imgUrl": "http://www.trp1119.com/proj/travel/static/img/icon1.png",
+        "desc": "景点门票"
+      }, {
+        "id": "0002",
+        "imgUrl": "http://www.trp1119.com/proj/travel/static/img/icon2.png",
+        "desc": "一日游"
+      }, {
+        "id": "0003",
+        "imgUrl": "http://www.trp1119.com/proj/travel/static/img/icon3.png",
+        "desc": "上海必游"
+      }, {
+        "id": "0004",
+        "imgUrl": "http://www.trp1119.com/proj/travel/static/img/icon4.png",
+        "desc": "动植物园"
+      }, {
+        "id": "0005",
+        "imgUrl": "http://www.trp1119.com/proj/travel/static/img/icon5.png",
+        "desc": "城市观光"
+      }, {
+        "id": "0006",
+        "imgUrl": "http://www.trp1119.com/proj/travel/static/img/icon6.png",
+        "desc": "踏青赏花"
+      }, {
+        "id": "0007",
+        "imgUrl": "http://www.trp1119.com/proj/travel/static/img/icon7.png",
+        "desc": "东方明珠"
+      }, {
+        "id": "0008",
+        "imgUrl": "http://www.trp1119.com/proj/travel/static/img/icon8.png",
+        "desc": "野生动物园"
+      }, {
+        "id": "0009",
+        "imgUrl": "http://www.trp1119.com/proj/travel/static/img/icon9.png",
+        "desc": "上海迪士尼"
+      }, {
+        "id": "0010",
+        "imgUrl": "http://www.trp1119.com/proj/travel/static/img/icon10.png",
+        "desc": "上海海昌"
+      }],
+    "recommendList": [{
+        "id": "0001",
+        "imgUrl": "http://www.trp1119.com/proj/travel/static/img/love1.jpg",
+        "title": "上海迪士尼乐园",
+        "desc": "全球最大的迪士尼城堡"
+      }, {
+        "id": "0002",
+        "imgUrl": "http://www.trp1119.com/proj/travel/static/img/love2.jpg",
+        "title": "上海野生动物园",
+        "desc": "会跳芭蕾的小海狮们~"
+      }, {
+        "id": "0003",
+        "imgUrl": "http://www.trp1119.com/proj/travel/static/img/love3.jpg",
+        "title": "上海欢乐谷",
+        "desc": "敢上1200米长的木质过山车吗？"
+      }, {
+        "id": "0004",
+        "imgUrl": "http://www.trp1119.com/proj/travel/static/img/love4.jpg",
+        "title": "上海影视乐园",
+        "desc": "这里特别受欢迎哟(๑‾ ꇴ ‾๑)"
+      }, {
+        "id": "0005",
+        "imgUrl": "http://www.trp1119.com/proj/travel/static/img/love5.jpg",
+        "title": "顾村公园",
+        "desc": "帅的人都去过了😎，你还等什么~"
+      }, {
+        "id": "0006",
+        "imgUrl": "http://www.trp1119.com/proj/travel/static/img/love6.jpg",
+        "title": "上海动物园",
+        "desc": "巨型象龟了解一下~"
+      }, {
+        "id": "0007",
+        "imgUrl": "http://www.trp1119.com/proj/travel/static/img/love7.jpg",
+        "title": "上海海洋水族馆",
+        "desc": "亲眼见证鲨鱼的恐怖"
+      }, {
+        "id": "0008",
+        "imgUrl": "http://www.trp1119.com/proj/travel/static/img/love8.jpg",
+        "title": "浦江郊野公园奇迹花园",
+        "desc": "来奇迹花园开启一段花之奇旅吧"
+      }, {
+        "id": "0009",
+        "imgUrl": "http://www.trp1119.com/proj/travel/static/img/love9.jpg",
+        "title": "上海中心大厦",
+        "desc": "🔥好评如潮，小伙伴热推景点~"
+      }, {
+        "id": "0010",
+        "imgUrl": "http://www.trp1119.com/proj/travel/static/img/love10.jpg",
+        "title": "东方明珠",
+        "desc": "259米透明悬空观光廊了解一下~"
+      }, {
+        "id": "0010",
+        "imgUrl": "http://www.trp1119.com/proj/travel/static/img/love11.jpg",
+        "title": "上海惊魂密境",
+        "desc": "一个多元化的浸入式剧情体验主题娱乐场馆"
+      }, {
+        "id": "0012",
+        "imgUrl": "http://www.trp1119.com/proj/travel/static/img/love12.jpg",
+        "title": "上海星空错觉艺术馆",
+        "desc": "你就是故事的主角"
+      }],
+    "weekendList": [{
+        "id": "0001",
+        "imgUrl": "http://www.trp1119.com/proj/travel/static/img/weekend1.jpg",
+        "title": "上海必打卡",
+        "desc": "中西合璧，现代和传统各有各的精彩"
+      }, {
+        "id": "0002",
+        "imgUrl": "http://www.trp1119.com/proj/travel/static/img/weekend2.jpg",
+        "title": "上海看花",
+        "desc": "这个好天气，一起去看花吧"
+      }, {
+        "id": "0003",
+        "imgUrl": "http://www.trp1119.com/proj/travel/static/img/weekend3.jpg",
+        "title": "周末亲子爱玩",
+        "desc": "走进自然或玩转乐园，感知大千世界，游乐项目惊险刺激，特色表演异彩纷呈，等你们~"
+      }, {
+        "id": "0004",
+        "imgUrl": "http://www.trp1119.com/proj/travel/static/img/weekend4.jpg",
+        "title": "上海城市观光",
+        "desc": "来这里寻找你所不认识的魔都 ，感受云端漫步，品味老上海风情，享受休闲时光"
+      }, {
+        "id": "0005",
+        "imgUrl": "http://www.trp1119.com/proj/travel/static/img/weekend5.jpg",
+        "title": "情迷博物馆",
+        "desc": "走进艺术殿堂，电影博物馆生动演绎着电影人和电影背后的故事，你不想知道吗~"
+      }]
+  }
+}
